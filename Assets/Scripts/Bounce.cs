@@ -5,7 +5,7 @@ public class Bounce : MonoBehaviour
     #region --Fields / Properties--
 
     /// <summary>
-    /// How fast the ball should move.
+    /// Speed of the ball's displacement.
     /// </summary>
     [SerializeField]
     private float _speed;
